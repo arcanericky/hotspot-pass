@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title">Wireless Enabler</string>
+	<string name="app_name">Visitor</string>
+	<string name="btn_enable">Enable</string>
+	<string name="btn_clear">Clear</string>
+	<string name="btn_simulate">Simulate: Off</string>
+	<string name="txt_authorizing">Authorizing...</string>
+	<string name="btn_prefs">Prefs</string>
+
+	<string name="pref_auth_url">
+		http://10.11.12.13:8080/cgi-bin/hslogin.cgi
+	</string>
+	<string name="pref_auth_user">hotspot-machine\\hotspot</string>
+	<string name="pref_auth_submit">Log+In</string>
+</resources>
